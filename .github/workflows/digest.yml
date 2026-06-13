@@ -1,0 +1,39 @@
+name: Catalyst Digest
+
+on:
+  schedule:
+    - cron: '0 22 * * 0,3'   # Sun & Wed 22:00 UTC = Mon & Thu 8am Melbourne
+  workflow_dispatch:          # adds a manual "Run" button for testing
+
+permissions:
+  contents: write
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic resend python-dotenv
+
+      - name: Run the agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python catalyst_digest.py
+
+      - name: Keep the schedule alive
+        run: |
+          date -u >> last_run.txt
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add last_run.txt
+          git commit -m "log run" || echo "nothing to commit"
+          git push
