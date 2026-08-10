@@ -2,7 +2,7 @@ name: Catalyst Digest
 
 on:
   schedule:
-    - cron: '0 22 * * 0,3'   # Sun & Wed 22:00 UTC = Mon & Thu 8am Melbourne
+    - cron: '0 22 * * 0'   # Sun 22:00 UTC = Mon 8am Melbourne
   workflow_dispatch:          # adds a manual "Run" button for testing
 
 permissions:
@@ -34,6 +34,6 @@ jobs:
           date -u >> last_run.txt
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add last_run.txt
+          git add -A
           git commit -m "log run" || echo "nothing to commit"
           git push
