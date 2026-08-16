@@ -77,6 +77,84 @@
       "url": "https://www.medicaleconomics.com/view/heidi-raises-65-million-to-expand-ai-care-partner-for-clinicians",
       "category": "AU / APAC spotlight",
       "covered": "2026-08-10"
+    },
+    {
+      "headline": "Australian Vexev raises $6M to pursue FDA clearance for AI robotic vascular ultrasound platform VxWave",
+      "url": "https://www.mobihealthnews.com/news/australian-vexev-raises-6m-bring-ai-robotic-vascular-ultrasound-us",
+      "category": "Funding & raises",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Bunkerhill Health closes Series B; Corner Health lands $32.5M in week's US digital health raises",
+      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+      "category": "Funding & raises",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "OpenAI Foundation commits $100M to Common Health Coalition to double hepatitis C cure rates using AI",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative",
+      "category": "Funding & raises",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Atlantic Health and K Health launch PatientGPT, an AI patient-guidance tool integrated with Epic MyChart",
+      "url": "https://www.mobihealthnews.com/news",
+      "category": "New tools & launches",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "SimplePractice launches Care Aide — AI clinical workflow assistant for independent mental health practitioners",
+      "url": "https://www.healthitanswers.net/health-it-product-news-report-august-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "FDA clears Wandercraft's Eve self-balancing personal exoskeleton for wheelchair users with spinal cord injuries",
+      "url": "https://www.mobihealthnews.com/news/fda-clears-wandercrafts-eve-exoskeleton-wheelchair-users",
+      "category": "New tools & launches",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "University of Melbourne and RMIT develop smartphone thermal imaging tool to assess diabetic foot ulcers",
+      "url": "https://www.mobihealthnews.com/news",
+      "category": "New tools & launches",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Agentic AI moves from pilot to procurement: health systems are now budgeting for autonomous clinical workflow agents, not just ambient scribes",
+      "url": "https://soapnoteai.com/soap-note-guides-and-example/agentic-ai-clinical-documentation/",
+      "category": "Ideas & trends",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Innovaccer and Mastek form Platinum GSI partnership to scale agentic healthcare AI across US, UK, EU and Middle East",
+      "url": "https://businesswire.com/news/home/20260813731560/en/Innovaccer-and-Mastek-Announce-Strategic-Partnership-to-Bring-Agentic-Healthcare-AI-to-Healthcare-and-Life-Sciences-Organizations-Across-the-US-UK-EU-and-Middle-East",
+      "category": "Ideas & trends",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "US digital health H1 2026 funding hits $7.4B — up 15% on H1 2025 — as mega-deals absorb nearly half of all capital",
+      "url": "https://openminds.com/market-intelligence/news/digital-health-startups-raised-7-4-billion-in-the-first-half-of-2026-up-15-over-2025/",
+      "category": "Ideas & trends",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Vexev (Sydney) raises $6M, backed by Blackbird and Startmate, to bring autonomous vascular ultrasound to US dialysis patients",
+      "url": "https://www.biospace.com/press-releases/vexev-raises-6m-to-accelerate-u-s-commercialization-of-autonomous-vascular-imaging-platform",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "Heidi Health opens Hong Kong office and HKUST research partnership, processing nearly 20,000 consultations already in market",
+      "url": "https://www.heidihealth.com/en-au/blog/hong-kong-launch",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-08-16"
+    },
+    {
+      "headline": "University of Melbourne–RMIT smartphone thermal imaging for diabetic foot ulcers seeks regulatory path to clinical use",
+      "url": "https://www.mobihealthnews.com/news",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-08-16"
     }
   ]
 }
