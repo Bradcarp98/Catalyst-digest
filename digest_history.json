@@ -281,6 +281,72 @@
       "url": "https://news.harisq.com/p/this-week-in-australian-startups-d0f",
       "category": "AU / APAC spotlight",
       "covered": "2026-08-31"
+    },
+    {
+      "headline": "Elucid raises $55M oversubscribed Series D for AI cardiovascular imaging platform",
+      "url": "https://www.biospace.com/press-releases/elucid-raises-55-million-in-oversubscribed-series-d-financing",
+      "category": "Funding & raises",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Ultrahuman raises $70M Series C led by Qualcomm Ventures to evolve smart ring into on-device AI compute platform",
+      "url": "https://www.business-standard.com/companies/start-ups/ultrahuman-raises-70-mn-to-build-new-human-computer-interface-for-health-126090400018_1.html",
+      "category": "Funding & raises",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "AusperBio closes $120M Series C to advance hepatitis B oligonucleotide therapy toward Phase 3 and commercialisation",
+      "url": "https://www.biospace.com/press-releases/ausperbio-completes-120-million-series-c-financing-to-advance-ahb-137-toward-potential-commercialization-and-expand-next-generation-hbv-therapies",
+      "category": "Funding & raises",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "FDA TEMPO pilot expands to four generative-AI medical devices — including Cadence HypertensionOS and mental health AI Limbic — bypassing standard pre-market authorisation",
+      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
+      "category": "New tools & launches",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Elucid's Plaque-IQ now Medicare-reimbursable at ~$1,012 per scan, clearing the path to commercial scale",
+      "url": "https://pomegra.io/startups/elucid-closes-55m-series-d-for-plaque-ai-2026-09-04",
+      "category": "New tools & launches",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Ultrahuman launches Pulsomics decentralised research platform, embedding opt-in clinical trials inside consumer wearable app",
+      "url": "https://hlth.com/insights/news/ultrahuman-raises-70m-to-expand-multimodal-health-intelligence-platform",
+      "category": "New tools & launches",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "FDA's TEMPO pilot reframes generative AI regulation: market access first, evidence collection second",
+      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
+      "category": "Ideas & trends",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Smart ring 'compute platform' pivot signals next competitive frontier beyond passive sensing",
+      "url": "https://athletechnews.com/ultrahuman-70-million-funding-qualcomm/",
+      "category": "Ideas & trends",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Cardiac AI attracts growing strategic medtech investment as CPT reimbursement unlocks commercial runway",
+      "url": "https://hitconsultant.net/2026/09/02/elucid-raises-55m-series-d-ai-plaque-iq-biointegrated-ffr-ct-cardiovascular-diagnostics/",
+      "category": "Ideas & trends",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "Ultrahuman (India) closes $70M Series C at $365M valuation — APAC's largest wearable health raise of 2026 to date",
+      "url": "https://www.finsmes.com/2026/09/ultrahuman-raises-70m-in-equity-and-debt.html",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-09-06"
+    },
+    {
+      "headline": "AusperBio hepatitis B Series C carries strong APAC relevance: China Phase 3 underway for disease affecting 240M+ people in region",
+      "url": "https://www.dealstreetasia.com/stories/ausperbio-series-c-round-493578",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-09-06"
     }
   ]
 }
