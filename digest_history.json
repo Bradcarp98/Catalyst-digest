@@ -521,6 +521,108 @@
       "url": "https://blog.mean.ceo/startups-australia-news-september-2026/",
       "category": "AU / APAC spotlight",
       "covered": "2026-09-28"
+    },
+    {
+      "headline": "Healthleap raises $38M (Sequoia, First Round, Hummingbird) to scale AI inpatient risk-screening platform",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "category": "Funding & raises",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Sava raises $36M Series B led by Ascensia Diabetes Care for needle-free glucose microsensor",
+      "url": "https://credx.media/articles/sava-funding-36m-series-b-painless-glucose-microsensor",
+      "category": "Funding & raises",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Biolevate closes €30M Series A to scale life-sciences AI foundation models for drug discovery and trial optimisation",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-9th-october-2026",
+      "category": "Funding & raises",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "EU opens €80M 'Chips & Medical AI Factory' call to build sovereign clinical-AI compute infrastructure",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-9th-october-2026",
+      "category": "Funding & raises",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Mass General Brigham AI intake agent inside MyChart gets 77% of patients seen same day",
+      "url": "https://openloophealth.com/blog/digital-health-trends-and-news-october-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Kneu Health launches Apple Watch tool for continuous Parkinson's tremor and dyskinesia monitoring",
+      "url": "https://openloophealth.com/blog/digital-health-trends-and-news-october-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "AKASA launches first autonomous AI platform for inpatient medical coding and clinical documentation",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Aiva Health integrates ChatGPT for Healthcare, Claude for Healthcare, and Gemini Enterprise as a unified hospital voice interface",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "DexCare acquires Mila Health to add AI care-coordination and outreach agents to patient-access platform",
+      "url": "https://openloophealth.com/blog/digital-health-trends-and-news-october-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "ARPA-H's $62.7M autonomous heart-failure AI programme triggers 'who is liable?' debate across US health systems",
+      "url": "https://openloophealth.com/blog/digital-health-trends-and-news-october-2026/",
+      "category": "Ideas & trends",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Multi-model hospital voice AI signals end of single-vendor lock-in in ambient clinical stacks",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2026/",
+      "category": "Ideas & trends",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Pan-European Cardiovascular AI Consortium establishes first unified clinical-validation standards across 13 member states",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-9th-october-2026",
+      "category": "Ideas & trends",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Undiagnosed inpatient conditions emerge as a distinct AI clinical market: up to 50% of hospitalised patients at malnutrition risk, fewer than 9% diagnosed",
+      "url": "https://hitconsultant.net/2026/10/07/healthleap-raises-38m-series-a-sequoia-first-round-clinical-ai-inpatient-screening/",
+      "category": "Ideas & trends",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "Australia's Cardiovascular Disease Data Commons (ACDC) begins researcher rollout — 400,000 individuals, multi-omics, globally integrated",
+      "url": "https://www.pulseit.news/australian-digital-health/cardiovascular-disease-data-commons-rolls-out/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "DonateLife Victoria deploys AI assistant across clinical team for faster information access",
+      "url": "https://www.pulseit.news/category/australian-digital-health/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "New Zealand: Lanas acquires indici as part of NZ$150M health tech consolidation push",
+      "url": "https://www.pulseit.news/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-10-12"
+    },
+    {
+      "headline": "MedTech Innovator APAC Grand Finals convene 26 October in Singapore — seven Australian startups among 20 finalists",
+      "url": "https://www.businesswire.com/news/home/20260519577679/en/MedTech-Innovator-Asia-Pacific-Selects-Top-20-Startups-for-2026-APAC-Accelerator-Program-from-680-Applicants",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-10-12"
     }
   ]
 }
