@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "headline": "Heidi Health closes $65M Series B led by Point72 to scale AI medical scribe globally",
-      "url": "https://www.mobihealthnews.com/news/heidi-health-raises-65m-expand-global-reach-its-ai-medical-scribe-platform",
-      "category": "Funding & raises",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Qureight raises $20M Series B to expand AI imaging platform for lung and heart clinical trials",
-      "url": "https://techfundingnews.com/qureight-20m-series-b-ai-imaging-clinical-trials/",
-      "category": "Funding & raises",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Onalabs raises €9.3M Series A to scale sweat-based continuous biomarker monitoring",
-      "url": "https://www.sgieurope.com/financing/onalabs-raises-more-than-93m-to-scale-continuous-health-monitoring/122451.article",
-      "category": "Funding & raises",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Xeltis secures €20.5M to advance resorbable vascular implant platform",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-7th-august-2026",
-      "category": "Funding & raises",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Ahead Health raises ~$10M and launches into Germany and Netherlands",
-      "url": "https://tech.eu/2026/08/03/european-tech-weekly-recap-eur878m-in-weekly-deals-and-key-trends-from-h1-2026/",
-      "category": "Funding & raises",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Heidi Health launches Heidi Remote — a 21g wearable AI microphone for hospital environments",
-      "url": "https://www.computerweekly.com/news/366640992/Aussie-AI-health-tech-Heidi-aims-to-cure-clinical-burnout",
-      "category": "New tools & launches",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "NHS England backs EPR-integrated ambient voice technology rollout under £10bn tech investment",
-      "url": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
-      "category": "New tools & launches",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "EU AI Act's main provisions entered force 2 August 2026 — but medical device compliance deadlines pushed to 2027–2028",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-7th-august-2026",
-      "category": "Ideas & trends",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "MHRA proposes 'International Reliance' pathway to fast-track devices already cleared by FDA, Health Canada, or TGA",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-7th-august-2026",
-      "category": "Ideas & trends",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "European digital health VC pivoting from consumer wellness apps to 'clinical plumbing' AI",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-7th-august-2026",
-      "category": "Ideas & trends",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Heidi Health wins NHS Midlands contract to deploy AI scribe to 70,000 clinicians across 1,239 GP practices and 15 trusts",
-      "url": "https://yesilscience.com/nhs-bets-big-on-ai-voice-tech/",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "Australia's startup ecosystem reaches 5,136 startups with healthtech among top three sectors; Heidi Health and Saluda Medical named standouts",
-      "url": "https://blog.mean.ceo/startups-australia-news-august-2026/",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-10"
-    },
-    {
-      "headline": "New Zealand formally endorses Heidi Health as one of two AI vendors safe for trial in public health settings",
-      "url": "https://www.medicaleconomics.com/view/heidi-raises-65-million-to-expand-ai-care-partner-for-clinicians",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-10"
-    },
-    {
       "headline": "Australian Vexev raises $6M to pursue FDA clearance for AI robotic vascular ultrasound platform VxWave",
       "url": "https://www.mobihealthnews.com/news/australian-vexev-raises-6m-bring-ai-robotic-vascular-ultrasound-us",
       "category": "Funding & raises",
@@ -863,6 +785,90 @@
       "url": "https://blog.mean.ceo/startups-australia-news-october-2026/",
       "category": "AU / APAC spotlight",
       "covered": "2026-11-02"
+    },
+    {
+      "headline": "Midstream Health raises $20M Series A to scale autonomous financial operations across 250+ US hospitals",
+      "url": "https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/",
+      "category": "Funding & raises",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "nPhase raises $30M Series D — first equity raise since 2017 — to scale AI-native clinical trial data platform",
+      "url": "https://www.mobihealthnews.com/news/nphase-raises-30m-clinical-data-platform",
+      "category": "Funding & raises",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "PulseAI receives FDA 510(k) clearance for AI arrhythmia analysis model deployable on consumer wearables",
+      "url": "https://finance.yahoo.com/healthcare/articles/pulseai-receives-u-fda-510-145100467.html",
+      "category": "Funding & raises",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Brazil's Rivio raises R$80M Series A extension led by Valor Capital for AI hospital-bill auditing",
+      "url": "https://healthtechrounds.substack.com/p/healthtech-rounds-04-rivio-raises",
+      "category": "Funding & raises",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "LeanTaaS acquires LookDeep Health and launches iQueue for Virtual Care — ambient computer vision for hospital patient rooms",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/leantaas-expands-iqueue-ambient-intelligence-lookdeep-acquisition",
+      "category": "New tools & launches",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "OhMD launches Outcomes — AI platform that converts plain-language operational goals into automated patient workflows",
+      "url": "https://healthitanswers.net/health-it-business-news-november-5-2026",
+      "category": "New tools & launches",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Rhapsody launches Guardian — AI governance layer controlling how AI agents access clinical health data and APIs",
+      "url": "https://healthitanswers.net/health-it-business-news-november-5-2026",
+      "category": "New tools & launches",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Cohere Health unifies medical and drug utilisation management on a single AI clinical intelligence platform",
+      "url": "https://healthitanswers.net/health-it-product-news-report-november-2026",
+      "category": "New tools & launches",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "US Senate PATIENT AI Act draft proposes Medicare payment pathway and rolling FDA review authority for health AI",
+      "url": "https://www.healthcareitnews.com/news/proposed-senate-bill-offers-ideas-regs-and-reimbursement-health-ai",
+      "category": "Ideas & trends",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "AI discharge summaries preferred by physicians in 95% of cases in Stony Brook head-to-head study",
+      "url": "https://cei.org/blog/this-week-in-health-care-policy-october-31-november-6-2026/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Generalist AI funds (Founders Fund, OpenAI Startup Fund) now writing lead cheques into implantable medtech — a structural shift",
+      "url": "https://gscapitalconnect.substack.com/p/gs-medtech-industry-update-week-44",
+      "category": "Ideas & trends",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Autonomous hospital financial AI emerges as a distinct VC-backed category as health systems face margin pressure",
+      "url": "https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Australian and NZ healthtech sector raises $716M in 2026 YTD — up 175% on 2025 — as Heidi tops $437M in cumulative funding",
+      "url": "https://tracxn.com/d/explore/healthtech-startups-in-australia-and-new-zealand/__x8LoSX7jY2EiHMp1E5JnDoRPEFEl6ZQxVc59ikNon0w",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-09"
+    },
+    {
+      "headline": "Coherence Neuro's $45M Series A carries APAC dimension — Australian co-founders and Royal Melbourne Hospital surgical study",
+      "url": "https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-09"
     }
   ]
 }
