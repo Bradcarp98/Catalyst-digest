@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "headline": "Australian Vexev raises $6M to pursue FDA clearance for AI robotic vascular ultrasound platform VxWave",
-      "url": "https://www.mobihealthnews.com/news/australian-vexev-raises-6m-bring-ai-robotic-vascular-ultrasound-us",
-      "category": "Funding & raises",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Bunkerhill Health closes Series B; Corner Health lands $32.5M in week's US digital health raises",
-      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-      "category": "Funding & raises",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "OpenAI Foundation commits $100M to Common Health Coalition to double hepatitis C cure rates using AI",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative",
-      "category": "Funding & raises",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Atlantic Health and K Health launch PatientGPT, an AI patient-guidance tool integrated with Epic MyChart",
-      "url": "https://www.mobihealthnews.com/news",
-      "category": "New tools & launches",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "SimplePractice launches Care Aide — AI clinical workflow assistant for independent mental health practitioners",
-      "url": "https://www.healthitanswers.net/health-it-product-news-report-august-2026/",
-      "category": "New tools & launches",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "FDA clears Wandercraft's Eve self-balancing personal exoskeleton for wheelchair users with spinal cord injuries",
-      "url": "https://www.mobihealthnews.com/news/fda-clears-wandercrafts-eve-exoskeleton-wheelchair-users",
-      "category": "New tools & launches",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "University of Melbourne and RMIT develop smartphone thermal imaging tool to assess diabetic foot ulcers",
-      "url": "https://www.mobihealthnews.com/news",
-      "category": "New tools & launches",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Agentic AI moves from pilot to procurement: health systems are now budgeting for autonomous clinical workflow agents, not just ambient scribes",
-      "url": "https://soapnoteai.com/soap-note-guides-and-example/agentic-ai-clinical-documentation/",
-      "category": "Ideas & trends",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Innovaccer and Mastek form Platinum GSI partnership to scale agentic healthcare AI across US, UK, EU and Middle East",
-      "url": "https://businesswire.com/news/home/20260813731560/en/Innovaccer-and-Mastek-Announce-Strategic-Partnership-to-Bring-Agentic-Healthcare-AI-to-Healthcare-and-Life-Sciences-Organizations-Across-the-US-UK-EU-and-Middle-East",
-      "category": "Ideas & trends",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "US digital health H1 2026 funding hits $7.4B — up 15% on H1 2025 — as mega-deals absorb nearly half of all capital",
-      "url": "https://openminds.com/market-intelligence/news/digital-health-startups-raised-7-4-billion-in-the-first-half-of-2026-up-15-over-2025/",
-      "category": "Ideas & trends",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Vexev (Sydney) raises $6M, backed by Blackbird and Startmate, to bring autonomous vascular ultrasound to US dialysis patients",
-      "url": "https://www.biospace.com/press-releases/vexev-raises-6m-to-accelerate-u-s-commercialization-of-autonomous-vascular-imaging-platform",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "Heidi Health opens Hong Kong office and HKUST research partnership, processing nearly 20,000 consultations already in market",
-      "url": "https://www.heidihealth.com/en-au/blog/hong-kong-launch",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-16"
-    },
-    {
-      "headline": "University of Melbourne–RMIT smartphone thermal imaging for diabetic foot ulcers seeks regulatory path to clinical use",
-      "url": "https://www.mobihealthnews.com/news",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-16"
-    },
-    {
       "headline": "Happy Health raises $75M Series A for FDA-cleared smart ring and AI home-care platform",
       "url": "https://medcitynews.com/2026/08/happy-health-snags-75m-to-support-home-based-care/",
       "category": "Funding & raises",
@@ -869,6 +791,90 @@
       "url": "https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology",
       "category": "AU / APAC spotlight",
       "covered": "2026-11-09"
+    },
+    {
+      "headline": "Charta Health closes $55M Series B led by Insight Partners for AI medical chart review platform",
+      "url": "https://bhbusiness.com/2026/11/10/charta-health-brings-in-55m-as-it-launches-payer-offerings/",
+      "category": "Funding & raises",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Zus Health raises $33M Series B led by Drive Capital to scale AI-native patient-data infrastructure",
+      "url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
+      "category": "Funding & raises",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Mosaic Intelligence Labs exits stealth with $47M seed to build sensing surgical robots for endovascular procedures",
+      "url": "https://finance.yahoo.com/healthcare/articles/mosaic-emerges-stealth-47-million-170000730.html",
+      "category": "Funding & raises",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Aulis Capital closes $200M fund anchored in APAC life sciences and healthtech",
+      "url": "https://www.everythingstartups.com/new-healthtech-vc-funds",
+      "category": "Funding & raises",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Neurotronics (Nihon Kohden) wins FDA 510(k) clearance for AI sleep analysis module that estimates total sleep time from pulse oximetry alone",
+      "url": "https://www.mobihealthnews.com/news/neurotronics-receives-fda-clearance-ai-sleep-analysis-software",
+      "category": "New tools & launches",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Sysmex and Hologen form Saibogen joint venture to apply AI to routine blood test analysis",
+      "url": "https://www.medindexer.com/news",
+      "category": "New tools & launches",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "MRO launches Prodigy — AI engine for fully managed clinical registry abstraction",
+      "url": "https://www.healthitanswers.net/health-it-product-news-report-november-2026/",
+      "category": "New tools & launches",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "AI billing accuracy emerges as a distinct, high-velocity VC category — Charta's 10x revenue growth and 2.5x round-size acceleration in under 18 months signals structural demand",
+      "url": "https://fourweekmba.com/ai-charta-health-55m-series-b-is-2-5x-its-last-round/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Endovascular surgical intelligence identified as the next frontier in physical AI — world-model robotics applied inside blood vessels",
+      "url": "https://www.unite.ai/mosaic-raises-47m-seed-to-develop-spatial-intelligence-for-surgery/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "EU MDR/IVDR reform debate intensifies in Brussels as Europe's shrinking global medtech share forces regulatory streamlining push",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-13th-november-2026",
+      "category": "Ideas & trends",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Closed-loop neurotechnology transitions from passive implants to adaptive, real-time brain stimulation devices — European spotlight at MedTech World Valletta",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-13th-november-2026",
+      "category": "Ideas & trends",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "Heidi Health signs MOU with Samsung Medical Center — first clinical AI partnership in South Korea",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33841",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "APACMed AI in MedTech Summit convenes in Singapore on 17 November — 'From Pilots to P&L' agenda signals maturation of regional AI deployment",
+      "url": "https://apacmed.org/artificial-intelligence-in-medtech/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-16"
+    },
+    {
+      "headline": "AI-assisted ECG reading wins Taiwan's T+ MedIC Medical Innovation Accelerator top prize",
+      "url": "https://www.biospectrumasia.com/category/med-tech",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-16"
     }
   ]
 }
