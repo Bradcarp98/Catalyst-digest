@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "headline": "Happy Health raises $75M Series A for FDA-cleared smart ring and AI home-care platform",
-      "url": "https://medcitynews.com/2026/08/happy-health-snags-75m-to-support-home-based-care/",
-      "category": "Funding & raises",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "Hopscotch Primary Care closes $53M Series D to scale tech-enabled rural primary care across US South-East",
-      "url": "https://pulse2.com/hopscotch-primary-care-raises-53-million-series-d-as-rural-platform-reaches-15000-patients/",
-      "category": "Funding & raises",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "MaxQ Medical raises $31.5M Series A — backed by Olympus — for all-in-one transurethral prostate imaging and therapy system",
-      "url": "https://www.prnewswire.com/news-releases/maxq-medical-raises-31-5-million-series-a-backed-by-olympus-to-advance-its-prostate-care-platform-302855815.html",
-      "category": "Funding & raises",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "Landmark PLOS Digital Health analysis: of 1,357 FDA-cleared AI medical devices, only 3 were tested on patient outcomes",
-      "url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html",
-      "category": "Ideas & trends",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "Rural health tech emerges as a distinct US investment category as Hopscotch and peers prove the model is profitable",
-      "url": "https://pulse2.com/hopscotch-primary-care-raises-53-million-series-d-as-rural-platform-reaches-15000-patients/",
-      "category": "Ideas & trends",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "Home-based diagnostics for chronic disease gains VC momentum as smart-ring OSA clearance reframes 'hospital-to-home' thesis",
-      "url": "https://www.fiercehealthcare.com/finance/happy-health-secures-75m-ai-driven-home-based-care-platform",
-      "category": "Ideas & trends",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "MedTech World Asia 2026 convenes in Hong Kong (26–28 Aug) with 10-startup pitch competition spanning AI elder care, biosensing, surgical robotics and organ preservation",
-      "url": "https://med-tech.world/news/medtech-asia-2026-top-10-startup-pitches/",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-23"
-    },
-    {
-      "headline": "India's Lissun raises Rs 48 crore Series A to expand AI-led child development centres",
-      "url": "https://www.indianstartuptimes.com/investment/lissun-raises-rs-48-crore-in-series-a-to-expand-child-development-centres-and-ai-led-care/",
-      "category": "AU / APAC spotlight",
-      "covered": "2026-08-23"
-    },
-    {
       "headline": "Kantoko raises $3.5M seed to build clinical-grade ADHD assessment and care platform in Australia",
       "url": "https://www.forbes.com.au/news/entrepreneurs/australias-adhd-system-made-him-snap-now-hes-raised-millions-to-build-a-new-one/",
       "category": "Funding & raises",
@@ -875,6 +827,96 @@
       "url": "https://www.biospectrumasia.com/category/med-tech",
       "category": "AU / APAC spotlight",
       "covered": "2026-11-16"
+    },
+    {
+      "headline": "Nanopath closes $25M Series B to advance 15-minute point-of-care vaginitis test",
+      "url": "https://www.mobihealthnews.com/news/nanopath-raises-25m-advance-15-minute-vaginitis-test",
+      "category": "Funding & raises",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Orakl Oncology raises oversubscribed $34M Series A to scale AI cancer-trial prediction platform",
+      "url": "https://hitconsultant.net/2026/11/12/orakl-oncology-raises-34-million-series-a-predict-cancer-clinical-trial-outcomes/",
+      "category": "Funding & raises",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Sleep.ai raises $5.3M for device-agnostic B2B sleep intelligence SaaS platform",
+      "url": "https://parsers.substack.com/p/funding-rounds-report-weekly-of-november-74f",
+      "category": "Funding & raises",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Korean AI radiology startup Sumbit AI raises ₩12B Series A for generative-AI medical image diagnosis",
+      "url": "https://www.mt.co.kr/en/future/2026/11/22/2026112215104528505",
+      "category": "Funding & raises",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Korean medical robotics startup Mediintech raises ₩33.8B Series C",
+      "url": "https://www.mt.co.kr/en/future/2026/11/22/2026112215104528505",
+      "category": "Funding & raises",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "NuraLogix debuts Anura MagicMirror Mini at HLTH 2026 — 30-second facial scan estimates vitals and health-risk indicators",
+      "url": "https://insights.citeline.com/medtech-insight/",
+      "category": "New tools & launches",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Bracco and Avicenna.AI receive FDA 510(k) clearance for UPTUNITY | Aneurysm — AI brain aneurysm detection on CTA",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software",
+      "category": "New tools & launches",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Medtronic Hugo receives FDA 510(k) clearance for US general surgery — broadens robotic platform beyond urology",
+      "url": "https://news.medtronic.com/press-releases?category=777&keywords=Hugo",
+      "category": "New tools & launches",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "AMA releases liability framework for clinical AI — responsibility assigned by authority and capacity to prevent harm",
+      "url": "https://openloophealth.com/blog/recent-digital-health-trends-insights-and-news-november-2026/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "AI health-tech messaging fatigue: 'AI-powered' label losing investor and reporter attention, new SolComms/HLTH report finds",
+      "url": "https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "FDA 2026 guidance gives wearables and clinical AI tools more regulatory flexibility — attorneys outline evolving classification approach",
+      "url": "https://insights.citeline.com/medtech-insight/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Virtual tumour avatars emerge as a distinct AI drug-discovery category — Orakl's $34M Series A signals institutional conviction",
+      "url": "https://techfundingnews.com/paris-based-orakl-oncology-scoops-34m-for-ai-cancer-drug-prediction/",
+      "category": "Ideas & trends",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Skopos Bio (Melbourne) launches with A$12M seed to commercialise radiopharmaceuticals from Peter MacCallum Cancer Centre",
+      "url": "https://www.ddw-online.com/c/business/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Synchron voluntarily pauses INTENT and FOCUS BCI trials — AU sites included — over second-gen Stentrode lead issue",
+      "url": "https://www.massdevice.com/synchron-halts-brain-computer-interface-trials-after-stentrode-device-fails-to-perform/",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-23"
+    },
+    {
+      "headline": "Korea's generative-AI medical imaging sector sees dual raises in a single week — Sumbit AI and Mediintech signal APAC momentum",
+      "url": "https://www.mt.co.kr/en/future/2026/11/22/2026112215104528505",
+      "category": "AU / APAC spotlight",
+      "covered": "2026-11-23"
     }
   ]
 }
